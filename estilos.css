@@ -1,3 +1,11 @@
 p{
     color: blue;
 }
+
+ul{
+    text-align: center;
+}
+
+ul > li{
+    text-decoration: underline;
+}
